@@ -5,24 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bd586e2-d83e-4680-a614-18dba9dd32f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Collections.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boynames.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/girlnames.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/girls.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LauraDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SocialSecurityAdministration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortVector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FacultyMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Passby.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SocialNetwork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SocialNetworkDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ratings.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +34,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HSHC1gjE381HJepYW7m2bn7q3o" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
